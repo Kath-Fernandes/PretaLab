@@ -14,11 +14,12 @@ git push -u origin main
 
 Criação de Branches
 git checkout -b <nomedabranche> - criar 
-git checkout feature - mudar para a Branche
+git checkout <nomedabranch> - mudar para a Branche
 git branch 
 git add .
 git commit -m "adicionar commit"
-git log
-
+git log - aperta o q para sair da tela 
+git push origin -u <nomedabranche> - primeiro push na branch nova precisa ser desta maneira, para reconhecimento do Git
+git merge <nomedabranche> - commit/junção das duas branches
 
 
