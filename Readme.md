@@ -12,6 +12,13 @@ git add .
 git commit -m "commitar"
 git push -u origin main
 
+Criação de Branches
+git checkout -b <nomedabranche> - criar 
+git checkout feature - mudar para a Branche
+git branch 
+git add .
+git commit -m "adicionar commit"
+git log
 
 
 
