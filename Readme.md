@@ -22,5 +22,9 @@ git log - aperta o q para sair da tela
 git push origin -u <nomedabranche> - primeiro push na branch nova precisa ser desta maneira, para reconhecimento do Git
 git merge <nomedabranche> - commit/junção das duas branches
  
- #SegundaSemana
+ ## Segunda aula criando e ativando a chave SSH
+ Ativamosa chaves e incluimos a chave no Github
+ 
+
+
 
